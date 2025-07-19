@@ -1,5 +1,5 @@
-# chai aur code backend series
+# Backend of videotube project
 
-This is a video series on backend with javascript
+Similar to youtube but with some more functionalities
 
 -[Model link](https://app.eraser.io/workspace/YtPqZ1VogxGy1jzIDkzj)
